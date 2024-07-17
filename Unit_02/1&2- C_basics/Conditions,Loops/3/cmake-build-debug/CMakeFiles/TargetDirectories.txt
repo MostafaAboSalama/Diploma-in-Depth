@@ -1,0 +1,3 @@
+D:/Codes/Embedded Diploma/Assignments/Unit_02/C_basics/Conditions,Loops/3/cmake-build-debug/CMakeFiles/3.dir
+D:/Codes/Embedded Diploma/Assignments/Unit_02/C_basics/Conditions,Loops/3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/Embedded Diploma/Assignments/Unit_02/C_basics/Conditions,Loops/3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

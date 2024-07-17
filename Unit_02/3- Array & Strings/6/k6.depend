@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721042427 source:c:\users\salam\desktop\mostafa iti\k6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
