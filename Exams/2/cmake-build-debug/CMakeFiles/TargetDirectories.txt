@@ -1,0 +1,3 @@
+D:/Courses/Codes/Test/mid2/cmake-build-debug/CMakeFiles/mid2.dir
+D:/Courses/Codes/Test/mid2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Courses/Codes/Test/mid2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
